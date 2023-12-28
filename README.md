@@ -27,7 +27,7 @@
 <p align="left">
 <!-- <a href="https://dev.to/obaidismailz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="obaidismailz" height="30" width="40" /></a> -->
 
-<a href="https://linkedin.com/in/obaidismailz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obaidismailz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-afnan-6b812b21b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obaidismailz" height="30" width="40" /></a>
 </p>
 
 
